@@ -33,8 +33,8 @@ export const siteContent = {
         imageUrl: '-',
         status: 'Website profil pribadi yang dibuat untuk memperkenalkan diri, perjalanan pendidikan, pengalaman, pencapaian, karya, serta hobi saya.',
         tech: 'VueJS 3, Tailwind',
-        github: '-',
-        demo: '-'
+        github: 'https://lylyy02.github.io/Portofolio-v2/',
+        demo: 'https://lylyy02.github.io/Portofolio-v2/'
       },
       {
         id: 2,
